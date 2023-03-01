@@ -1,6 +1,6 @@
-
 body{
-  background: linear-gradient(green, white);
+  color: black;
+  background: linear-gradient(white, green);
   background-size: cover;
   min-height: 100vh;
   padding: 10px;
@@ -36,23 +36,6 @@ footer{
   margin: 10px;
 }
 
-h2 {
-  text-align:center;
-  font-size: x-large;
-
+h1{
+  color:black;
 }
- h3{
-  text-align:center;
-  font-size: x-large;
-  
- }
-
- h3{
-  text-align:center;
-  font-size:x-large;
- }
-
- h4{
-  text-align:center;
-  font-size: x-large;
- }

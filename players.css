@@ -1,6 +1,5 @@
-
 body{
-  background: linear-gradient(green, white);
+  background: linear-gradient(black, blue);
   background-size: cover;
   min-height: 100vh;
   padding: 10px;
@@ -35,24 +34,27 @@ footer{
   padding: 10px;
   margin: 10px;
 }
-
-h2 {
-  text-align:center;
-  font-size: x-large;
-
+h1{
+  font-size: xx-large;
+  color: whitesmoke;
 }
- h3{
-  text-align:center;
+h2{
+ font-size: x-large;
+}
+h3{
   font-size: x-large;
   
- }
-
- h3{
-  text-align:center;
-  font-size:x-large;
- }
-
- h4{
-  text-align:center;
+}
+h4{
   font-size: x-large;
- }
+}
+h5{
+  font-size: x-large;
+}
+h6{
+  font-size: x-large;
+}
+h7{
+  font-size: x-large;
+}
+
