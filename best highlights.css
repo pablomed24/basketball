@@ -4,11 +4,11 @@ body{
   background-size: cover;
   min-height: 100vh;
   padding: 10px;
-  margin: 0px;
+  margin: 10px;
   color: white;
 }
 header {
-  margin: 0px;
+  margin: 10px;
   background-color: black;
   padding: 10px;
 }
@@ -37,5 +37,33 @@ footer{
 }
 
 h1{
-  color:black;
+  color:whitesmoke;
 }
+h2 {
+  text-align:center;
+  font-size: x-large;
+
+}
+ h3{
+  text-align:center;
+  font-size: x-large;
+  
+ }
+
+ h3{
+  text-align:center;
+  font-size:x-large;
+ }
+
+ h4{
+  ;text-align:center;
+  font-size: x-large
+ }
+ h5{
+  text-align:center;
+  font-size: x-large;
+ }
+ h6{
+  text-align:center;
+  font-size: x-large;
+ }
